@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "etlsupermayorista",
+  "private_key_id": "f938b78c47ce6797ff30da21966762aa8e61cbc1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCndps37weHOuU3\nlaHyLggqCywOimh49p9UfM0u5nCdkEISGPdf8ovt/vCynU2hcMZE1RsD7GFUS9ce\nxYWsseI673JvmEgEmxs1CkfDP1xyA1CDNcUsWu3t7iSf8Ljttx/SBbXeD3GoSiMV\nndIyXzO3e8odMKLIsLJ83RCrkWByIvsJc8whfDbgjqkV0ip+HU5cYJRVVIipK5Fs\nKZKlm+6WvUpUHxIWp2diLtLBZomWotHTbLWj3ni8uoMjTyE1KXzFYggTHkPDVxbW\n2YAzjVYmnop8do83L86uU7dnTAvZbzmUQPnHDNjczK6kuU4RHlNLxdGZshfUUsPV\nT6MjWvFRAgMBAAECggEAFEVSIqIneiIR7vmI4eTajiROD/CHFuVbggGdYKj6RshY\nhxJIl2+nqoZqomRSKlGZXmmhXIc3fNm1T38/YBkkNlgXtRRs20nfMDtvVl4MFaz7\nCPbwSB81n9Bs1INyDyxUiLqyOhAKhQF8X7h74icN/o7Yd1IU0lA5Os4Tn4D4eLg7\nCAeUgdXOprnIBq7Rs6HdmQWz287gV7tQTNU4tuizpjsAv/iuTCqACiprBthO1VJe\nJ/Dc+RjdDBTjIhW9zs5BqBEzNVfo7KZQEe+Fa7ZhJWrkoljd8tvXYo5IxmAhimzA\nKKX57q/FSJuMDpVAF1xQU0dw5lr7lCUjKCvKaMAzQQKBgQDdVbBk0nuqKCUFXTHm\nNlGhTqRKD7zDl4M+/uT8NVKRUf5emw4vZtEDLh4SSIkUNvObgGcslYwlnsad4IOA\n+9263lZ/lj9qZ7oogd894m97bUQfvtKXUjV6tQNykE8DQ5EIYqn8Puwjd6pZgELi\nxjAx2I1pigBjvgXnnbu4yC3u6QKBgQDBsPfj035jVSrqBesWzA2Ywl/vvL5Da3HI\nwdTZr4XaYe3oLIwd8KSG+B/x5tTSCJzeBdzgq8YCSCHPKByo847M1OnuULBOg1zB\nJUNW9ljI0hIpg8vHwY1HaG5FAxranVhhfUqew84ZAEuFMEu8bsT2xQhydXp1eop0\nVESLTYF+KQKBgQCj9kd+2OIdcjHCoIBHnzOngF96MeBPMJ1cfGzbXRD2cDw0jz7Z\n5JuvdGl4d918aRzbtCo6P+qbL9zItboVQf/G39BKId6Gj6K7QUJEUMrvL0mJDs5o\npNDTPub35mlx7IqzIIv2PhKmT46VUMu7vL+VHWvcpAuX1/v90b5vq3NDiQKBgAZf\n+biw5E8GpZPwP+2PJ79oXln4n1Z+uc7+ui+z/DbU1Ey48p+lpPSgRATlMQn8qJUS\nIlPus2St1RcJXfAdnAyX0V87nqHm5u2geVfqYb+yUlC1esaHU0wPXtm8oWyikx8a\nTZNuJGFkRhgLH+MCzk7E62NBBJfLQbVUdLEVCvcJAoGADO9i9lXBCqxnc8i7BInu\nQN94wvMvGbXDKSjgZzLyDaIrf0o2eoKU3AtRzFIcQ4aU3rCXmoZny1+3hMfLTSIN\nWO11rxTxtDDeFnjTGqeeLugH0MnrH/s7fk0WZqwSb1cqB7oeQ7qI1LoK9oEQFhSa\nr35Yw1Bw3LgPIVQEQgEObq8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "etlsupermayorista@etlsupermayorista.iam.gserviceaccount.com",
+  "client_id": "102737667716269675711",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/etlsupermayorista%40etlsupermayorista.iam.gserviceaccount.com"
+}
